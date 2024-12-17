@@ -1,5 +1,5 @@
 daily_image_error.log
 nasa_apod_image.jpg
 build
-dist/main/_internal
+dist
 main.spec
