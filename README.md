@@ -5,6 +5,10 @@ I have tried to use parameters wherever possible, so this can be customised to u
 
 ![Alt text](example_result.png)
 
+## Authentication
+
+You do not need to authenticate, but to send many requests a day, set the `NASA_APOD_API_KEY` environment variable as described at [NASA Open APIs](https://api.nasa.gov/).
+
 ## Running the Script Daily
 
 Prerequisites:
