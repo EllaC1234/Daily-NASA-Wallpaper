@@ -3,6 +3,8 @@
 This Python script updates the user's wallpaper to NASA's daily astronomical picture using the NASA APOD API.
 I have tried to use parameters wherever possible, so this can be customised to use other APIs and themes.
 
+![Alt text](example_result.png)
+
 ## Running the Script Daily
 
 Prerequisites:
